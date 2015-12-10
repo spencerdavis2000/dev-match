@@ -1,6 +1,8 @@
 == README
 
-This is Dev Match Project
+Coder Manual Project Application
+Subscription-based web application
+http://codermanual.com
 
 Things you may want to cover:
 
