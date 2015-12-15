@@ -33,3 +33,5 @@ gem 'sdoc', '0.4.0', group: :doc
 
 gem 'spring', group: :development
 
+#Use bootstrap library for styles
+gem 'bootstrap-sass', '3.3.1'
