@@ -93,6 +93,9 @@ GEM
     sdoc (0.4.0)
       json (~> 1.8)
       rdoc (~> 4.0, < 5.0)
+    sendgrid (1.2.4)
+      json
+      json
     spring (1.5.0)
     sprockets (2.11.0)
       hike (~> 1.2)
@@ -132,6 +135,7 @@ DEPENDENCIES
   rails_12factor
   sass-rails (= 4.0.3)
   sdoc (= 0.4.0)
+  sendgrid
   spring
   sqlite3
   turbolinks
