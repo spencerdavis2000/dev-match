@@ -53,4 +53,11 @@ gem 'devise', '3.4.1'
 gem 'stripe', '1.16.1 '
 
 # use figaro to hide secret keys
+# the purpose of figaro is to HIDE sensitive information so when we put things on 
+# github people can't see certain things
+# sensitive information from STRIPE, figaro gem is designed to HIDE information for us
 gem 'figaro', '1.0.0'
+
+# in general, you want information from figaro and your database to be hidden from github
+# therefore you always put it in a .gitingnore file
+
